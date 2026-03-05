@@ -14,3 +14,6 @@ This project demonstrates how to host a static website using Amazon S3.
 
 ## Result
 Successfully hosted a static website using Amazon S3.
+
+#Live Website:
+http://tony-s3-demo-website.s3-website.eu-north-1.amazonaws.com/
